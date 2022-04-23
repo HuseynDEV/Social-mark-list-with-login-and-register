@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "username": "Huseyn",
+      "fullname": "asads",
+      "password": "4893451ba966c063d9f804ef9efe08628c83c321",
+      "id": 1
+    },
+    {
+      "username": "dd",
+      "fullname": "fsdfs",
+      "password": "b1137f614b92f3208fe969ced93a685924996161",
+      "id": 2
+    },
+    {
+      "username": "ad",
+      "fullname": null,
+      "password": "41a36dfaabb9c1b57c2b3d6f8879637e5e5f0b58",
+      "id": 3,
+      "likes": [
+        2,
+        4
+      ]
+    },
+    {
+      "username": "ad",
+      "fullname": null,
+      "password": "41a36dfaabb9c1b57c2b3d6f8879637e5e5f0b58",
+      "id": 6
+    },
+    {
+      "likes": [
+        2
+      ],
+      "id": 7
+    },
+    {
+      "likes": [
+        5
+      ],
+      "id": 8
+    },
+    {
+      "likes": [
+        2
+      ],
+      "id": 9
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "Huseyn",
+      "url": "http//google",
+      "categoryId": "Vue js",
+      "description": "Cok guzel bir framework",
+      "userId": 3,
+      "created_at": 18,
+      "id": 1
+    },
+    {
+      "title": "React js",
+      "url": "http//react js",
+      "categoryId": "React js",
+      "description": "Framework",
+      "userId": 3,
+      "created_at": 18,
+      "id": 2
+    },
+    {
+      "title": "Huseyn",
+      "url": "awd",
+      "categoryId": "Backend",
+      "description": "backen",
+      "userId": 3,
+      "created_at": 46,
+      "id": 3
+    },
+    {
+      "title": "ada",
+      "url": "esef",
+      "categoryId": "Vue js",
+      "description": "m.,",
+      "userId": 3,
+      "created_at": 46,
+      "id": 4
+    },
+    {
+      "title": "sdada",
+      "url": "sdasd",
+      "categoryId": "Frontend",
+      "description": "sdas",
+      "userId": 3,
+      "created_at": 41,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue js",
+      "id": 1
+    },
+    {
+      "name": "React js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    }
+  ],
+  "likes": []
+}
